@@ -10,9 +10,13 @@ function App() {
 						<img src={desktop}></img>
 					</div>
 					<div>
-						<h2>Perfume</h2>
-						<h1>Gabrielle Essence Eau De Parfum</h1>
-						<h3>
+						<h2 className="uppercase font-montserrat text-neutral-darkgrayishblue">
+							Perfume
+						</h2>
+						<h1 className="font-fraunces text-neutral-verydarkblue">
+							Gabrielle Essence Eau De Parfum
+						</h1>
+						<h3 className="font-montserrat text-neutral-darkgrayishblue">
 							A floral, solar and voluptous intrepretation composed by Olivier
 							Polge, Perfumer-Creator for the house of CHANEL
 						</h3>

@@ -13,6 +13,7 @@ module.exports = {
 					darkgrayishblue: '#6C7289',
 				},
 			},
+			fontFamily: { montserrat: ['Montserrat'], fraunces: ['Fraunces'] },
 		},
 	},
 	plugins: [],
