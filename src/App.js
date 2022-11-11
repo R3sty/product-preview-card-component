@@ -1,15 +1,16 @@
 import desktop from './images/image-product-desktop.jpg';
-import iconCart from './images/icon-cart.svg';
 import mobile from './images/image-product-mobile.jpg';
 
 function App() {
 	return (
 		<>
 			<div className="bg-secondary-cream h-screen grid  place-items-center">
-				<div className="grid grid-cols-2 rounded-md bg-white max-w-lg h-max items-center">
-					<div>
-						<img className="rounded-tl-md rounded-bl-md" src={desktop}></img>
-					</div>
+				<div className="flex flex-col md:grid md:grid-cols-2 rounded-md bg-white max-w-lg h-max items-center m-4">
+					<img className="" src={mobile}></img>
+					<img
+						className="hidden md:rounded-tl-md md:rounded-bl-md"
+						src={desktop}
+					></img>
 					<div className="p-6">
 						<h2 className="uppercase font-montserrat text-neutral-darkgrayishblue tracking-widest text-xs">
 							Perfume
