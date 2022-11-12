@@ -14,6 +14,7 @@ module.exports = {
 				},
 			},
 			fontFamily: { montserrat: ['Montserrat'], fraunces: ['Fraunces'] },
+			spacing: { '2/3': '66.666667%' },
 		},
 	},
 	plugins: [],

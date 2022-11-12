@@ -5,12 +5,19 @@ function App() {
 	return (
 		<>
 			<div className="bg-secondary-cream h-screen grid  place-items-center">
-				<div className="flex flex-col md:grid md:grid-cols-2 rounded-md bg-white max-w-lg h-max items-center m-4">
-					<img className="" src={mobile}></img>
+				<div
+					className="flex flex-col md:grid md:grid-cols-2 rounded-md bg-white max-w-lg h-max items-center m-4"
+					id="image"
+				>
 					<img
-						className="hidden md:rounded-tl-md md:rounded-bl-md"
+						className="block md:hidden rounded-tl rounded-tr md:rounded-"
+						src={mobile}
+					></img>
+					<img
+						className="hidden md:block rounded-tl rounded-bl md:rounded-"
 						src={desktop}
 					></img>
+
 					<div className="p-6">
 						<h2 className="uppercase font-montserrat text-neutral-darkgrayishblue tracking-widest text-xs">
 							Perfume
