@@ -25,9 +25,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.jpg)
+![Desktop Design](./design/screenshot-desktop.jpg)
+![Responsive Design](./design/screenshot-responsive.jpg)
+![Mobile Design](./design/screenshot-mobile.jpg)
 
 ### Links
 
