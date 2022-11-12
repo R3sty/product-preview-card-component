@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop Design](./design/screenshot-desktop.jpg)
-![Responsive Design](./design/screenshot-responsive.jpg)
-![Mobile Design](./design/screenshot-mobile.jpg)
+![Desktop Design](./design/screenshot-desktop.png)
+![Responsive Design](./design/screenshot-responsive.png)
+![Mobile Design](./design/screenshot-mobile.png)
 
 ### Links
 
