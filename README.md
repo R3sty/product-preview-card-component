@@ -23,7 +23,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
 
 ### Screenshots
 
@@ -33,32 +32,32 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/R3sty/product-preview-card-component)
+- Live Site URL: [Add live site URL here](https://r3sty.github.io/product-preview-card-component/)
 
 ## My process
 
+- Start a react project
+- Set up tailwindcss
+- Code HTML
+- Apply tailwindcss properties
+
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- Tailwind CSS
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
 ### What I learned
 
-### Continued development
+I had to revisit how to use flex and grid with tailwindcss before starting with project. I also had minor issues deploying with github pages but I managed to fix it after some troubleshooting.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Thirus' tutorial on flex vs grid](https://www.youtube.com/watch?v=NUDLB5WG_6E) - This refreshed my memory on grid and flex box, and what properties to use with Tailwindcss.
+- [Deploying on Github Pages](https://stackoverflow.com/questions/63698241/how-to-deploy-react-app-to-github-pages-for-personal-page) - In case you have issues deploying on Github pages, this StackOverflow solution might help.
 
 ## Author
 
 - Website - [Add your name here](https://www.restyiral.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/R3sty)
-
-## Acknowledgments
