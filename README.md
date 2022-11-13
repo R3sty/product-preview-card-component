@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/R3sty/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://r3sty.github.io/product-preview-card-component/)
+- [Solution](https://github.com/R3sty/product-preview-card-component)
+- [Live site](https://r3sty.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -59,5 +59,5 @@ I had to revisit how to use flex and grid with tailwindcss before starting with 
 
 ## Author
 
-- Website - [Add your name here](https://www.restyiral.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/R3sty)
+- Website - [Resty](https://www.restyiral.com)
+- Frontend Mentor - [@R3sty](https://www.frontendmentor.io/profile/R3sty)
